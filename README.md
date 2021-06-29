@@ -10,7 +10,7 @@ Prerequisite : Python 3.9.0
 ```bash
 pip install sounddevice
 pip install wavio
-pipinstall scipy
+pip install scipy
 ```
 
 
