@@ -5,7 +5,7 @@ A little experiment on creating a Cantonese (廣東話) text-to-speech program u
 Prerequisite : Python 3.9.0
 
 ## Installation
-### Recording Libraries
+### Libraries for Sound Recording
 ```bash
 pip install sounddevice
 pip install wavio
