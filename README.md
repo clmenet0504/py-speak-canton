@@ -2,9 +2,7 @@
 
 A little experiment on creating a Cantonese (廣東話) text-to-speech program
 
-#Insta
+#Installation
 
-```bash
-pip install foobar
-```
+#Usage
 
