@@ -4,8 +4,7 @@ A little experiment on creating a Cantonese (廣東話) text-to-speech program u
 
 ## Installation
 
-Recording part
-
+###Recording Libraries
 ```bash
 pip install sounddevice
 pip install wavio
