@@ -37,4 +37,4 @@ def wordToPhonic(word):
 
     driver.close()
 
-wordToPhonic('好')
+
