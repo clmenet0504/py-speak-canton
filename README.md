@@ -2,11 +2,10 @@
 
 A little experiment on creating a Cantonese (廣東話) text-to-speech program using your own voice.
 
-
-
-## Installation 
-* Prerequisite : Python 3.9.0
+## Prerequisite
+* Python 3.9.0
 * [Chrome Driver](https://chromedriver.chromium.org/downloads) 
+
 ### Libraries for Sound Recording
 ```bash
 pip install sounddevice
