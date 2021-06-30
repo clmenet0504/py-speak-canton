@@ -6,6 +6,7 @@ A little experiment on creating a Cantonese (廣東話) text-to-speech program u
 
 ## Installation 
 * Prerequisite : Python 3.9.0
+* [Chrome Driver](https://chromedriver.chromium.org/) 
 ### Libraries for Sound Recording
 ```bash
 pip install sounddevice
