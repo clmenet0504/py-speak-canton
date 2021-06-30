@@ -12,6 +12,11 @@ pip install sounddevice
 pip install wavio
 pip install scipy
 ```
+### Libraries for Text to Cantonese Phonetic
+```bash
+pip install selenium
+pip install urllib
+```
 
 ## Set-up
 
