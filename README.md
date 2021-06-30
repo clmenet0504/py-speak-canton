@@ -24,7 +24,7 @@ pip install urllib
 ```powershell
 python scrapping.py [sentence]
 ```
-> i.e **python scrapping.py 你好嗎**
+> **python scrapping.py 你好嗎**
 
 #### Expected output
 ```powershell
