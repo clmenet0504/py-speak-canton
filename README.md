@@ -24,10 +24,10 @@ pip install urllib
 ```bat
 python scrapping.py [sentence]
 ```
-i.e **python scrapping.py 你好嗎**
+> i.e **python scrapping.py 你好嗎**
 
 #### Expected output
-```bat
+```powershell
 Sentence(句子) : ['你', '好', '嗎']
 ==================
 Word(字) : 你
