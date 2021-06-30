@@ -1,8 +1,6 @@
 from selenium import webdriver
-from selenium.webdriver.support.select import Select
-from selenium.webdriver.chrome.options import Options
-import time
 import urllib
+import sys
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--window-size=1020,945')
@@ -10,12 +8,20 @@ chrome_options.add_argument('--headless')
 
 driver = webdriver.Chrome(chrome_options=chrome_options)
 
+def splitSentence(sentence):
+    # splitting sentence into words
+    s_list = list(sentence)
+    print('Sentence(句子) : ' + str(s_list))
 
-# driver = webdriver.Chrome()
+    for word in s_list:
+        #word into cantonese phonetic
+        wordToPhonic(word)
 
+    driver.close()
 
 def wordToPhonic(word):
-    print('Word (字) : ' + word)
+    print('==================')
+    print('Word(字) : ' + word)
 
     # url-encode the word
     word = urllib.parse.quote_plus(word)
@@ -35,6 +41,5 @@ def wordToPhonic(word):
     print('Final(韻母) : ' + ph_final)
     print('Tone(音調) : ' + ph_tone)
 
-    driver.close()
 
-
+splitSentence(str(sys.argv[1]))
