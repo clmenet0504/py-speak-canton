@@ -18,7 +18,9 @@ pip install selenium
 pip install urllib
 ```
 
-## Set-up
-
 ## Usage
-
+### Text to Cantonese Phonetic
+```bash
+python scrapping.py [sentence]
+```
+i.e python scrapping.py 你好嗎
