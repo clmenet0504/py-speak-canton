@@ -21,8 +21,8 @@ pip install urllib
 
 ## Usage
 ### Text to Cantonese Phonetic
-#### Input
-```bat
+#### Input (Command line)
+```powershell
 python scrapping.py [sentence]
 ```
 > i.e **python scrapping.py 你好嗎**
