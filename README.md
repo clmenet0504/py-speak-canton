@@ -24,8 +24,7 @@ pip install selenium
 pip install urllib
 ```
 
-## Usage
-### Text to Cantonese Phonetic
+### Usage
 #### Input (Command line)
 ```powershell
 python scrapping.py [sentence]
