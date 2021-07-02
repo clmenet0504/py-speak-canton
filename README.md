@@ -2,9 +2,9 @@
 
 Cantonese Pinyin is a romanization system for Cantonese developed by Rev. Yu Ping Chiu (余秉昭)
 
-*[Cantonese Pinyin]: 常用字廣州話讀音表:拼音方案, also known as 教院式拼音方案
-
 This project is a little experiment on creating a Cantonese (廣東話) text-to-CantoPinyin.
+
+*[Cantonese Pinyin]: 常用字廣州話讀音表:拼音方案, also known as 教院式拼音方案
 
 ## Usage (*.exe)
 
