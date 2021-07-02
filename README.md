@@ -4,7 +4,7 @@ A little experiment on creating a Cantonese (廣東話) text-to-speech program u
 
 ## Prerequisite
 * Python 3.9.0
-* [Chrome Driver](https://chromedriver.chromium.org/downloads) 
+* [Chrome Driver](https://chromedriver.chromium.org/downloads) (Put in the same directory as scrapping.py)
 
 ### Libraries for Sound Recording
 ```bash
