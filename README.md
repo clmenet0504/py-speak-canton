@@ -4,12 +4,19 @@ Cantonese Pinyin (常用字廣州話讀音表:拼音方案, also known as 教院
 
 This project is a little experiment on creating a Cantonese (廣東話) text-to-CantoPinyin program.
 
-## Usage (*.exe)
+## Usage for executable(main.exe)
+### Prerequisite
+* Download [Chrome Driver](https://chromedriver.chromium.org/downloads) according to your chrome version (Put in the same directory as main.py)
 
+### Usage
+1. Run main.exe
+2. Input Cantonese Characters (Character or Sentence)
+3. Click "Go!"
 
-## Prerequisite
+## Usage for python (scrapping.py)
+### Prerequisite
 * Python 3.9.0
-* [Chrome Driver](https://chromedriver.chromium.org/downloads) (Put in the same directory as scrapping.py)
+* Download [Chrome Driver](https://chromedriver.chromium.org/downloads) according to your chrome version (Put in the same directory as scrapping.py)
 
 ### Libraries for Text to Cantonese Phonetic
 ```powershell
