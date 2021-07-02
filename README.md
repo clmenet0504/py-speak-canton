@@ -12,6 +12,7 @@ This project is a little experiment on creating a Cantonese (廣東話) text-to-
 1. Run main.exe
 2. Input Cantonese Characters (Character or Sentence)
 3. Click "Go!"
+4. Have fun!
 
 ## Usage for python (scrapping.py)
 ### Prerequisite
