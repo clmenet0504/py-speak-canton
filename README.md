@@ -8,7 +8,7 @@ This project is a little experiment on creating a Cantonese (廣東話) text-to-
 ### Prerequisite
 * Download [Chrome Driver](https://chromedriver.chromium.org/downloads) according to your chrome version (Put in the same directory as main.py)
 
-: [How to Find Your Internet Browser Version Number - Google Chrome](https://help.zenplanner.com/hc/en-us/articles/204253654-How-to-Find-Your-Internet-Browser-Version-Number-Google-Chrome)
+> [How to Find Your Internet Browser Version Number - Google Chrome](https://help.zenplanner.com/hc/en-us/articles/204253654-How-to-Find-Your-Internet-Browser-Version-Number-Google-Chrome)
 
 ### Usage
 1. Run main.exe
