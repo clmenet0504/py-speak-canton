@@ -1,17 +1,11 @@
 # py-speak-canton
 
-A little experiment on creating a Cantonese (廣東話) text-to-speech program using your own voice.
+A little experiment on creating a Cantonese (廣東話) text-to-phonetic.
 
 ## Prerequisite
 * Python 3.9.0
 * [Chrome Driver](https://chromedriver.chromium.org/downloads) (Put in the same directory as scrapping.py)
 
-### Libraries for Sound Recording
-```bash
-pip install sounddevice
-pip install wavio
-pip install scipy
-```
 ### Libraries for Text to Cantonese Phonetic
 ```powershell
 pip install selenium
