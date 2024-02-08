@@ -18,7 +18,7 @@ This project is aims to create a Cantonese (廣東話) text-to-CantoPinyin libra
 
 ## Usage for python (scrapping.py)
 ### Prerequisite
-* Python 3.9.0
+* Python 3.9.0 or above
 * Download [Chrome Driver](https://chromedriver.chromium.org/downloads) according to your chrome version (Put in the same directory as scrapping.py)
 
 ### Libraries for Text to Cantonese Phonetic
